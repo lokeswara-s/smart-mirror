@@ -1,0 +1,17 @@
+{
+  "name": "smart-mirror",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "author": "lokeswara.sane@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^15.3.0"
+  },
+  "window": {
+    "fullscreen": true
+  }
+}
